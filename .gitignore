@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Test and temporary files
+tmp_*.csv
+tmp_*.txt
+
+# Environment variables
+.env
